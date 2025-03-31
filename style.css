@@ -4,6 +4,10 @@ body {
     margin-top: 50px;
 }
 
+img {
+    width: 100%;
+}
+
 .drop-down {
     width: 50%;
     margin-left: 25%;
